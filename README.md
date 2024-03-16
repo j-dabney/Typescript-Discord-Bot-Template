@@ -19,7 +19,7 @@ This template is currently setup using the following dependencies:
 - dotenv
 - mongoose
 - glob
- - Convenience dependency uses in BotTemplate/src/base/classes/Handler.ts
+-- Convenience dependency used in BotTemplate/src/base/classes/Handler.ts
 - typescript (dev)
 
 ## Future Plans
